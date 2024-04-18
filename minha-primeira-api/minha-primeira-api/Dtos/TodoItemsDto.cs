@@ -3,6 +3,6 @@
     public class TodoItemsDto
     {
         public string Nome { get; set; }
-        public bool Completo { get; set; }
+        public bool Ativo { get; set; }
     }
 }

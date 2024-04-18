@@ -12,7 +12,7 @@ using minha_primeira_api.Models;
 namespace minha_primeira_api.Migrations
 {
     [DbContext(typeof(TodoContextDB))]
-    [Migration("20240410232710_InitialCreate")]
+    [Migration("20240417231933_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
